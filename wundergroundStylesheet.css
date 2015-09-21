@@ -1,0 +1,25 @@
+body {
+	font-family: futura, helvetica, sans-serif;
+	font-style: bold;
+	font-size: 32px;
+	background-color: #d9d8db;
+	background-image: url(https://s.yimg.com/os/mit/media/m/weather/images/fallbacks/lead/cloudy_d-e618500.jpg); 
+	padding: 25px; 
+}
+ul {
+	padding: 10px;
+	margin: 10px;
+}
+.temperature	{
+	color: #d23b09;
+	padding: 25x;
+	margin: 15px;
+}
+
+.feelsLike	{
+	color: #fb5800;
+	margin: 15px;
+}
+.randomInfo {
+	color: ;
+}
